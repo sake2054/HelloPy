@@ -1,0 +1,8 @@
+ta,tb=input().split()
+a=int(ta)
+b=int(tb)
+print(a+b)
+print(a-b)
+print(a*b)
+print(a//b)
+print(a%b)

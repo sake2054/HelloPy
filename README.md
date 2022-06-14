@@ -4,4 +4,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimingan)](https://solved.ac/profile/kimingan)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimingan)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimingan)](https://solved.ac/profile/kimingan)

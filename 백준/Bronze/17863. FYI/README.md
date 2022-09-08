@@ -8,7 +8,7 @@
 
 ### 분류
 
-구현(implementation)
+구현(implementation), 문자열(string)
 
 ### 문제 설명
 
